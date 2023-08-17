@@ -34,13 +34,13 @@ raceId,year,round,circuitId,name,lapDistanceMeters,completeLaps,scheduledLaps
 1108,2023,11,9,British Grand Prix,5891,52,52
 1109,2023,12,11,Hungarian Grand Prix,4381,70,70
 1110,2023,13,13,Belgian Grand Prix,7004,44,44
-1111,2023,14,39,Dutch Grand Prix,,,
-1112,2023,15,14,Italian Grand Prix,,,
-1113,2023,16,15,Singapore Grand Prix,,,
-1114,2023,17,22,Japanese Grand Prix,,,
-1115,2023,18,78,Qatar Grand Prix,,,
-1116,2023,19,69,United States Grand Prix,,,
-1117,2023,20,32,Mexico City Grand Prix,,,
-1118,2023,21,18,S‹o Paulo Grand Prix,,,
-1119,2023,22,80,Las Vegas Grand Prix,,,
-1120,2023,23,24,Abu Dhabi Grand Prix,,,
+1111,2023,14,39,Dutch Grand Prix,4259,,72
+1112,2023,15,14,Italian Grand Prix,5793,,53
+1113,2023,16,15,Singapore Grand Prix,,,62
+1114,2023,17,22,Japanese Grand Prix,5807,,53
+1115,2023,18,78,Qatar Grand Prix,5418,,57
+1116,2023,19,69,United States Grand Prix,5513,,56
+1117,2023,20,32,Mexico City Grand Prix,4304,,71
+1118,2023,21,18,S‹o Paulo Grand Prix,4309,,71
+1119,2023,22,80,Las Vegas Grand Prix,6120,,50
+1120,2023,23,24,Abu Dhabi Grand Prix,5281,,58
